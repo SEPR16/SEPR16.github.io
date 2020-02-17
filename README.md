@@ -61,7 +61,7 @@ The documentation frontend for our SEPR project, 2019.
 
 ## Assessment 3
 
-[Updates/Changes to Assessment 2: Summary [3.1]](https://docs.google.com/document/d/1rKyt4df1Dne4HEZfNzdHA_QO5vjPEAM-XhEYjiGw9Sw/edit?usp=sharing)
+[Change Report [3.1]](https://docs.google.com/document/d/1rKyt4df1Dne4HEZfNzdHA_QO5vjPEAM-XhEYjiGw9Sw/edit?usp=sharing)
 
 [Implementation [3.2]](https://docs.google.com/document/d/194EtM6fEpUEAv1jtPAfMY1TTAGtCaP0RJER6TJmOQSM/edit?usp=sharing)
 
