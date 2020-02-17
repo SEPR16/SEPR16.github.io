@@ -73,9 +73,9 @@ The documentation frontend for our SEPR project, 2019.
 
 [Game Executable [3s.1]]
 
-[Traceability Matrix [3s.2]]
+[Traceability Matrix [3s.2]](https://docs.google.com/spreadsheets/d/1rgth8NJ-NF5kDwIgrydP_bLQqOfdV-sIXOrfdviwOLI/edit?usp=sharing)
 
-[Testing Design/Evidence [3s.3]]
+[Testing Design/Evidence [3s.3]](https://docs.google.com/spreadsheets/d/1qr0zGNvJOLrjUF-maZfmY838qAWYTOigeKCG-xVjmdc/edit?usp=sharing)
 
 [User Manual [3s.4]]
 
