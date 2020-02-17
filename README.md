@@ -51,7 +51,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Code Repository [2s.6]](https://dev.azure.com/sepr16/_git/Game?path=%2F&version=GBmaster&_a=contents)
 
-[Java Docs [2s.7]](https://sepr16.github.io/Assessment2/JavaDocs/)
+[Java Docs [2s.7]](Assessment2/JavaDocs)
 
 [Gameplay Video [2s.8]](https://www.youtube.com/watch?v=bom6txFNvcM&feature=youtu.be)
 
@@ -81,7 +81,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Source Code Repo [3s.5]](https://dev.azure.com/sepr16/Game/_git/Assignment3)
 
-[Javadoc [3s.6]]
+[Javadoc [3s.6]](Assessment3/JavaDocs)
 
 ### Images
 
