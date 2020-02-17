@@ -59,6 +59,16 @@ The documentation frontend for our SEPR project, 2019.
 
 [Image Gallery](Assessment2/Images/Gallery.md)
 
+## Assessment 3
+
+[Updates/Changes to Assessment 2: Summary [3.1]](https://docs.google.com/document/d/1rKyt4df1Dne4HEZfNzdHA_QO5vjPEAM-XhEYjiGw9Sw/edit?usp=sharing)
+
+[Implementation [3.2]](https://docs.google.com/document/d/194EtM6fEpUEAv1jtPAfMY1TTAGtCaP0RJER6TJmOQSM/edit?usp=sharing)
+
+[Updated Plan [3.3]](https://docs.google.com/document/d/1Z4E-B1WzG9WZwmWov05TjUwj8QmGvysJGoNEqOANxHQ/edit?usp=sharing)
+
+[Updated Architecture [3.4]](https://docs.google.com/document/d/1bSYpOZmWP8iNfb5OOwGfT9JaVEUy01TweTvkWqkXLm4/edit?usp=sharing)
+
 ## Appendices [A]
 
 [IEEE 29148 Standard [A.1]](https://drive.google.com/a/york.ac.uk/file/d/16D3j55bur3vuNJafH8qle9jKWbT4A6v8/view?usp=sharing)
