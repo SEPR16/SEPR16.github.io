@@ -83,6 +83,10 @@ The documentation frontend for our SEPR project, 2019.
 
 [Javadoc [3s.6]]
 
+### Images
+
+[Image Gallery](Assessment3/Images/Gallery.md)
+
 ## Appendices [A]
 
 [IEEE 29148 Standard [A.1]](https://drive.google.com/a/york.ac.uk/file/d/16D3j55bur3vuNJafH8qle9jKWbT4A6v8/view?usp=sharing)
