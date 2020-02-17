@@ -75,7 +75,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Traceability Matrix [3s.2]](https://docs.google.com/spreadsheets/d/1rgth8NJ-NF5kDwIgrydP_bLQqOfdV-sIXOrfdviwOLI/edit?usp=sharing)
 
-[Testing Design/Evidence [3s.3]](https://docs.google.com/spreadsheets/d/1qr0zGNvJOLrjUF-maZfmY838qAWYTOigeKCG-xVjmdc/edit?usp=sharing)
+[Test Cases [3s.3]](https://docs.google.com/spreadsheets/d/1qr0zGNvJOLrjUF-maZfmY838qAWYTOigeKCG-xVjmdc/edit?usp=sharing)
 
 [User Manual [3s.4]]
 
