@@ -69,6 +69,20 @@ The documentation frontend for our SEPR project, 2019.
 
 [Updated Architecture [3.4]](https://docs.google.com/document/d/1bSYpOZmWP8iNfb5OOwGfT9JaVEUy01TweTvkWqkXLm4/edit?usp=sharing)
 
+### Supplementary
+
+[Game Executable [3s.1]]
+
+[Traceability Matrix [3s.2]]
+
+[Testing Design/Evidence [3s.3]]
+
+[User Manual [3s.4]]
+
+[Source Code Repo [3s.5]](https://dev.azure.com/sepr16/Game/_git/Assignment3)
+
+[Javadoc [3s.6]]
+
 ## Appendices [A]
 
 [IEEE 29148 Standard [A.1]](https://drive.google.com/a/york.ac.uk/file/d/16D3j55bur3vuNJafH8qle9jKWbT4A6v8/view?usp=sharing)
