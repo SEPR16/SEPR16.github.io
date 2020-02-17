@@ -71,7 +71,7 @@ The documentation frontend for our SEPR project, 2019.
 
 ### Supplementary
 
-[Game Executable [3s.1]]
+[Game Executable [3s.1]](Assessment3/kroy.jar)
 
 [Traceability Matrix [3s.2]](https://docs.google.com/spreadsheets/d/1rgth8NJ-NF5kDwIgrydP_bLQqOfdV-sIXOrfdviwOLI/edit?usp=sharing)
 
