@@ -68,6 +68,7 @@ The documentation frontend for our SEPR project, 2019.
 [Updated Plan [3.3]](https://docs.google.com/document/d/1Z4E-B1WzG9WZwmWov05TjUwj8QmGvysJGoNEqOANxHQ/edit?usp=sharing)
 
 [Updated Architecture [3.4]](https://docs.google.com/document/d/1bSYpOZmWP8iNfb5OOwGfT9JaVEUy01TweTvkWqkXLm4/edit?usp=sharing)
+
 [User Manual](https://docs.google.com/document/d/1HxbPArCZjnQRsOXqNnLJ51hfT95hbv2AINbw_5CGQlo/edit)
 
 ### Supplementary
