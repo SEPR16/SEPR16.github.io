@@ -77,7 +77,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Test Cases [3s.3]](https://docs.google.com/spreadsheets/d/1qr0zGNvJOLrjUF-maZfmY838qAWYTOigeKCG-xVjmdc/edit?usp=sharing)
 
-[User Manual [3s.4]](https://docs.google.com/document/d/1HxbPArCZjnQRsOXqNnLJ51hfT95hbv2AINbw_5CGQlo/edit)
+[User Manual [3s.4]](https://docs.google.com/document/d/1HxbPArCZjnQRsOXqNnLJ51hfT95hbv2AINbw_5CGQlo/edit?usp=sharing)
 
 [Source Code Repo [3s.5]](https://dev.azure.com/sepr16/Game/_git/Assignment3)
 
