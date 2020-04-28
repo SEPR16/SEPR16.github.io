@@ -101,9 +101,9 @@ The documentation frontend for our SEPR project, 2019.
 
 [Traceability Matrix [4s.2]](https://docs.google.com/spreadsheets/d/1XtILwQKk8fYoqICpjc8wQIVtkX0jh5FRBpb8EiZBDSM/edit?usp=sharing)
 
-[Test Cases [4s.3]](UPDATE)
+[Test Cases [4s.3]](https://docs.google.com/document/d/1UWLfSa9335GQPd5_Ybv4dBQGo3j_o7P_xSEeSv8Tp3Q/edit?usp=sharing)
 
-[User Manual [4s.4]](UPDATE)
+[User Manual [4s.4]](https://docs.google.com/document/d/1JQLHk_LPPt8IzpqJ3JuuKL1rFMvi039Hm_qgN8rJ-zM/edit?usp=sharing)
 
 [Source Code Repo [4s.5]](https://dev.azure.com/sepr16/Game/_git/Assignment4?version=GBmaster)
 
