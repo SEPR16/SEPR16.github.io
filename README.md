@@ -93,8 +93,6 @@ The documentation frontend for our SEPR project, 2019.
 
 [Review [4.3]](https://docs.google.com/document/d/1OYV_w3r_nRVGDk3KkmoNwhTwEreV03AhcHI0dNMdM8Q/edit?usp=sharing)
 
-[Updated Architecture [3.4]](https://docs.google.com/document/d/1bSYpOZmWP8iNfb5OOwGfT9JaVEUy01TweTvkWqkXLm4/edit?usp=sharing)
-
 ### Supplementary
 
 [Game Executable [4s.1]](Assessment4/kroy.jar)
@@ -110,6 +108,8 @@ The documentation frontend for our SEPR project, 2019.
 [Javadoc [4s.6]](Assessment4/Javadocs)
 
 [Requirements [4s.7]](https://docs.google.com/document/d/1zXM8DShO4J3V51yEqvg49MdKikAKuMgC0O2fcYqa-6U/edit?usp=sharing)
+
+[Updated Architecture [4s.8]](Assessment4/Images/UML.png)
 
 ### Images
 
