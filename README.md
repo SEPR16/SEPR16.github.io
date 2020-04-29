@@ -109,6 +109,8 @@ The documentation frontend for our SEPR project, 2019.
 
 [Javadoc [4s.6]](Assessment4/Javadocs)
 
+[Requirements [4s.7]](https://docs.google.com/document/d/1zXM8DShO4J3V51yEqvg49MdKikAKuMgC0O2fcYqa-6U/edit?usp=sharing)
+
 ### Images
 
 [Image Gallery](Assessment3/Images/Gallery.md)
