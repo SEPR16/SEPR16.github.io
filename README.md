@@ -107,7 +107,7 @@ The documentation frontend for our SEPR project, 2019.
 
 [Source Code Repo [4s.5]](https://dev.azure.com/sepr16/Game/_git/Assignment4?version=GBmaster)
 
-[Javadoc [4s.6]](Assessment4/JavaDocs)
+[Javadoc [4s.6]](Assessment4/Javadocs)
 
 ### Images
 
